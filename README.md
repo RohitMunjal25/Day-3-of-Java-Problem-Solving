@@ -1,5 +1,5 @@
 # Day-3-of-Java-Problem-Solving
-In the day 3 I learn about the Oops Concepts used in java which includes class hierarchy,method overriding,abstract classes, run-time polymorphism,encapsulation , interfaces,super keyword with inheritance,method overloading,data hiding,abstraction with payment systems,static method and inheritances.
+On the day 3 I learn about the Oops Concepts used in java which includes class hierarchy,method overriding,abstract classes, run-time polymorphism,encapsulation , interfaces,super keyword with inheritance,method overloading,data hiding,abstraction with payment systems,static method and inheritances.
 
 The problems I solved  are following:-
 
